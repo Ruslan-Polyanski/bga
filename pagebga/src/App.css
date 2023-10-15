@@ -1,0 +1,23 @@
+.App {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  row-gap: 40px;
+  column-gap: 30px;
+}
+
+textarea {
+  width: 100%;
+  box-sizing: border-box;
+}
+
+input {
+  width: 100%;
+  box-sizing: border-box;
+}
+
+.table-first {
+  width: 100%;
+  margin: 20px 0;
+}
+
